@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Self-education\Beetroot\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Self-education\Beetroot\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\LibraryOOP\LibraryOOP\bin\Debug\LibraryOOP.exe.config
+C:\Users\User\Desktop\Self-education\Beetroot\LibraryOOP\LibraryOOP\bin\Debug\LibraryOOP.exe
+C:\Users\User\Desktop\Self-education\Beetroot\LibraryOOP\LibraryOOP\bin\Debug\LibraryOOP.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.exe
+C:\Users\User\Desktop\Self-education\Beetroot\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.pdb
